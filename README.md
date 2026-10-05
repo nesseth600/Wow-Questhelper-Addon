@@ -211,4 +211,4 @@ WOW QuestHelper Addon is available as a complete free version, with all features
 Ready to enhance your World of Warcraft experience? Download WOW QuestHelper Addon now and conquer those quests with ease!
 
 ---
-**Last updated:** 2026-10-05 08:15:46 UTC
+**Last updated:** 2026-10-05 17:49:50 UTC
